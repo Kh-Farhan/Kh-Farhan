@@ -2,14 +2,14 @@
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="350" />
 
-### I'm a Developer.
+### I'm a Mobile and Web Developer.
 
 
 ### About Me:
 - 🙋‍♂️ Graduated form Comsats University Islamabad.
 - 💻 I'm a <b>React Native </b>and a <b>MERN Stack </b> Developer.
 - ✨ I'm learning Advance New Technologies.
-- :microphone: A Vocalist,:guitar: Guitaist and :headphones: a Music Lover.
+- :microphone: A <b>Vocalist</b> ,:guitar: <b>Guitaist</b> and :headphones: a <b>Music Lover</b>.
 
 
 ### Languages & Tools
