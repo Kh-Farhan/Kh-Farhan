@@ -1,6 +1,6 @@
 ### Hi there I'm Khawaja Farhan Ahemd👋
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="100%" height="100%" style="position:absolute" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
 ### I'm a Developer.
 
