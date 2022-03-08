@@ -7,7 +7,7 @@
 
 ### About Me:
 - 🙋‍♂️ Graduated form Comsats University Islamabad.
-- :computer: Currently woring as a React Native Developer at BreakInt Pvt Ltd.
+- :office: Currently woring as a React Native Developer at BreakInt Pvt Ltd.
 - 💻 I'm a <b>React Native </b>and a <b>MERN Stack </b> Developer.
 - ✨ I'm learning Advance New Technologies.
 - :microphone: A <b>Vocalist</b> ,:guitar: <b>Guitaist</b> and :headphones: a <b>Music Lover</b>.
