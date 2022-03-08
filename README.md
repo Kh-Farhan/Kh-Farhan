@@ -5,11 +5,11 @@
 ### I'm a Developer.
 
 
-### Personal Stuff:
+### About Me:
 - 🙋‍♂️ Graduated form Comsats University Islamabad.
 - 💻 I'm a <b>React Native </b>and a <b>MERN Stack </b> Developer.
-- ✨ I'm learning Advance Backend Concepts.
--
+- ✨ I'm learning Advance New Technologies.
+- :microphone: A Vocalist,:guitar: Guitaist and :headphones: a Music Lover.
 
 
 ### Languages & Tools
