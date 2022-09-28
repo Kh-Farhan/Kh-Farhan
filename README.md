@@ -8,7 +8,7 @@
 ### About Me:
 - 🙋‍♂️ Graduated form Comsats University Islamabad.
 - :office: Currently woring as a Software Engineer at Teamo (Remote).
-- 💻 I'm a <b>Next.js</b><b>React Native </b>and a <b>MERN Stack </b> Developer.
+- 💻 I'm a <b>Next.js </b><b>React Native </b>and a <b>MERN Stack </b> Developer.
 - ✨ I'm learning Advance New Technologies.
 - :microphone: A <b>Vocalist</b> ,:guitar: <b>Guitaist</b> and :headphones: a <b>Music Lover</b>.
 - 🖥️[Portfolio][portfolio]
