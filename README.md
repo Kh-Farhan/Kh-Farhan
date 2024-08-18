@@ -11,8 +11,6 @@
 - 💻 I'm a <b>Next.js </b><b>React Native </b>and a <b>MERN Stack </b> Developer.
 - ✨ I'm learning Advance New Technologies.
 - :microphone: A <b>Vocalist</b> ,🎸 <b>Guitaist</b> and :headphones: a <b>Music Lover</b>.
-- 🖥️[Portfolio][portfolio]
-
 
 ### Languages & Tools
 <img align="left" alt="React.JS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
